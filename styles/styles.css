@@ -27,12 +27,10 @@
     font-weight: 600;
     font-size: 1.5rem;
     border-radius: 8px;
-    width: 9.75rem;
     text-decoration: none;
-    padding: 14px 0;
-    border: 2px solid var(--cor-terciaria);
     text-align: center;
-    
+    padding: 14px 0;
+    border: 2px solid var(--cor-terciaria);    
 }
 
 .cabecalho__conteudo__link:hover {
