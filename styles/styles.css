@@ -153,6 +153,10 @@ body {
         width: auto;
     }
 
+    .apresentacao__links__navegacao {
+        width: 100%;
+    }    
+
     .apresentacao__imagem {
         width: 50%;
     }
